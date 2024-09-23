@@ -6,5 +6,5 @@ export default function AboutPage(){
         <div>
             <h1>About me!</h1>
         </div>
-    )
+    );
 }
